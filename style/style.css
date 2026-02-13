@@ -9,7 +9,7 @@ body {
 
 .container {
   height: 100vh;
-  width: 100vw;
+  width: 100vh;
   margin: 0 auto;
   text-align: center;
   visibility: hidden;
@@ -41,8 +41,6 @@ body {
   font-size: 40px;
 }
 
-.one1{
-   font-size: 40px
 }
 .one > img {
   vertical-align: middle;
